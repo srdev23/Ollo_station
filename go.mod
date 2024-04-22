@@ -12,7 +12,7 @@ require (
 	github.com/cosmos/ibc-go/v6 v6.1.0
 	github.com/cosmos/interchain-accounts v0.4.3
 	github.com/docker/distribution v2.8.1+incompatible
-	github.com/dvsekhvalnov/jose2go v1.5.0
+	github.com/dvsekhvalnov/jose2go v1.7.0
 	github.com/ethereum/go-ethereum v1.10.26
 	github.com/evmos/ethermint v0.21.0
 	github.com/fatih/color v1.14.1
@@ -33,6 +33,7 @@ require (
 	github.com/tendermint/tendermint v0.34.27
 	github.com/tendermint/tm-db v0.6.7
 	github.com/tidwall/gjson v1.14.4
+	golang.org/x/exp v0.0.0-20230206171751-46f607a40771
 	google.golang.org/genproto v0.0.0-20230223222841-637eb2293923
 	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.31.0
@@ -303,7 +304,6 @@ require (
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.23.0 // indirect
 	golang.org/x/crypto v0.5.0 // indirect
-	golang.org/x/exp v0.0.0-20230206171751-46f607a40771 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20230203172020-98cc5a0785f9 // indirect
 	golang.org/x/mod v0.8.0 // indirect
 	golang.org/x/net v0.7.0 // indirect
